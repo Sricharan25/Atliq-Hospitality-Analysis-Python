@@ -16,3 +16,12 @@ Data quality is paramount in our analysis. This phase involves several critical 
   <li><b>Outlier Removal:</b> Ensuring data accuracy by detecting and eliminating outliers.</li>
   <li><b>Creating New Columns:</b> Crafting metrics like occupancy percentage (successful bookings to actual capacity ratio).</li>
 </ul>
+
+### Insights Generation<br>
+Our analysis has uncovered several noteworthy insights:
+<ul>
+  <li><b>Presidential Room Success:</b> The "Presidential" rooms consistently outperformed others, achieving the highest average occupancy rate of 59.30%, highlighting their strong appeal to guests.</li>
+  <li><b>Top-Performing Cities:</b> Delhi leads the occupancy rate chart with 61.51%, making it the standout performer, while Bangalore lags behind at 56.33%, showing potential for growth.</li>
+  <li><b>Weekend Occupancy Insights:</b> Weekends show consistently higher occupancy rates compared to weekdays, indicating prime opportunities for targeted promotions and dynamic pricing strategies.</li>
+  <li><b>Revenue Trends and Variations:</b> Revenue fluctuated across months, peaking in May 2022 at ₹40,83,75,641 INR and dipping in July 2022 to ₹38,99,40,912 INR, suggesting seasonal patterns and opportunities for revenue optimization.</li>
+</ul>
