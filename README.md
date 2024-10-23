@@ -7,6 +7,7 @@ AtliQ Grands faces a significant business challenge: a decline in revenue and ma
   <li>Identify opportunities for revenue enhancement.</li>
   <li>Enhance market competitiveness.</li>
 </ul>
+
 ## Project Process<br>
 ### Data Cleaning and Transformation<br>
 Data quality is paramount in our analysis. This phase involves several critical steps:
